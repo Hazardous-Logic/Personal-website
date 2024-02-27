@@ -1,0 +1,46 @@
+/* body{
+    font-family: 'Raleway';font-size: 22px;
+} */
+
+body {
+    font-family: 'Open Sans', sans-serif;
+  }
+
+.navbar-nav > li{
+    padding-left:30px;
+    padding-right:30px;
+  }
+
+  
+
+  /* Example CSS for better styling */
+body {
+    font-family: 'Open Sans', sans-serif;
+  }
+  
+  section {
+    background-color: #f7f7f7;
+    border: 1px solid #ddd;
+    padding: 20px;
+    margin: 20px 0;
+  }
+
+  /* h6 {
+    padding: 20px;
+  } */
+  
+  h1, h2, h3, h4, h5, h6 {
+    font-weight: 700;
+    color: #333;
+    padding: 15px;
+  }
+  
+  a {
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
